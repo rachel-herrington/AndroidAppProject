@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meatball Cafe</string>
+    <string name="txtSplash">Welcome to Meatball Cafe</string>
+    <string name="entrees">Entrees Image</string>
+    <string name="drinks">Drinks Image</string>
+    <string name="desserts">Desserts Image</string>
+</resources>
